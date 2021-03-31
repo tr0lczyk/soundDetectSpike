@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">SpikeAudioDetect</string>
+  <string name="screenTitle">Audio Detect</string>
+  <string name="choose_video">Choose File</string>
+  <string name="soundless">file is soundless :(</string>
+  <string name="audioExists">audio detected in chosen file :)</string>
+</resources>
